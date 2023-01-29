@@ -24,7 +24,7 @@ public class madlibs
 
 
 		// the project lets the user puts 3 wrods a build a poem
-		Console.WriteLine("Roses are"+color);
+		Console.WriteLine("Roses are"+color)// lets user select a colour 
 		Console.WriteLine(pluralNoun+" are blue ");
 		Console.WriteLine("I love"+Celebrity);
 	}
